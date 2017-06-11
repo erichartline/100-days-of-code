@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 2: Saturday, June 10, 2017
+
+**Today's Progress**: I finished Week 2 of M101JS, did a couple sections of my React Udemy course and read a chapter of the second YDKJS book.
+
+**Thoughts:** I feel like I had a very productive day today -- basically a full work day of coding. I started off by doing everything required in Week 2 of M101JS. I enjoyed this quite a bit since it focused on what commands are needed for CRUD in MongoDB. The homework questions were especially helpful since they required a lot of trial and error in finding the right syntax to look things up in their movie database. I'm digging this class so far.
+
+After finishing that, I started venturing back into my React learning. I went back to Andrew Mead's "The Complete React Web App Developer Course" on Udemy and finished the HelloReact and ReactBoilerPlate projects. I'm liking his teaching style more than the other React Udemy course I picked up, but it is a little disappointing that it doesn't use as much ES6. I suppose it doesn't hurt to learn the old syntax, too, though.
+
+The next project in the course involves building a weather app, and I'm really excited to see how that goes. I already built a weather app using JavaScript and jQuery, so it would be fun to update it to use React instead.
+
+Finally, I started re-reading You Don't Know JS: Scope & Closures. I read this a few months ago but got sidetracked on the third book. This time I plan on finishing the entire series in order.
+
+**Link to work:** [React Udemy Repo](https://github.com/wildlifehexagon/react-udemy)
+
 ### Day 1: Friday, June 9, 2017
 
 **Today's Progress**: I finished Week 1 of M101JS.
