@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 3: Sunday, June 11, 2017
+
+**Today's Progresz** More React Udemy work.
+
+**Thoughts:** I ran into some issues with Webpack. More details to come.
+
 ### Day 2: Saturday, June 10, 2017
 
 **Today's Progress**: I finished Week 2 of M101JS, did a couple sections of my React Udemy course and read a chapter of the second YDKJS book.
