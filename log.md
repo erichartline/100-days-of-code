@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: Monday, June 12, 2017
+
+**Today's Progress** I worked on fixing that Webpack bug from yesterday.
+
+**Thoughts:** It took a while, but I solved the problem! A fellow Chingu in my Slack #chingu-central channel pushed me in the right direction. We discovered that the dev dependencies weren't installing, and a bug in NPM5 was wiping out my regular dependencies when I ran `npm install --only=dev`. I rolled back to  NPM4, ran `npm install` then `npm install --only=dev` and voila, `webpack` worked! Although I was frustrated with all of the error messages, the debugging process ended up being very enlightening. I'm going to try to work on the React some more during the day tomorrow, then it's off to a NodeSchool event at night!
+
+### Day 3: Sunday, June 11, 2017
+
+**Today's Progress** More React Udemy work.
+
+**Thoughts:** I ran into some issues with Webpack, and they severely derailed my course progress. I had copied over my React boilerplate to get started on the new weather app, but I kept getting `Cannot resolve module 'babel-loader'` errors every time I would run `webpack`. I spent a couple hours trying to figure this out, but none of the 'fixes' I found worked. I had to leave for the evening but I was still in the coding mood, so I went through the entire JavaScript section in the SoloLearn phone app.
+
 ### Day 2: Saturday, June 10, 2017
 
 **Today's Progress**: I finished Week 2 of M101JS, did a couple sections of my React Udemy course and read a chapter of the second YDKJS book.
