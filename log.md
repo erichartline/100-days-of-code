@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: Tuesday, June 13, 2017
+
+**Today's Progress** test
+
+**Thoughts:** test
+
 ### Day 4: Monday, June 12, 2017
 
 **Today's Progress** I worked on fixing that Webpack bug from yesterday.
