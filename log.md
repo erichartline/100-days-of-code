@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: Tuesday, June 13, 2017
+
+**Today's Progress** I went to a NodeSchool meetup!
+
+**Thoughts:** I didn't get to do any React work done during the day, but I went to my first NodeSchool meetup tonight. It was actually a lot of fun! I worked on the 'promise-it-wont-hurt' workshop, and was able to finish half of the challenges while teaming up with someone else. Overall, it was a great time since I feel I learned a lot, and I got to meet some cool people. Apparently there is another Node.js meetup next week, so I am going to try to do that as well.
+
 ### Day 4: Monday, June 12, 2017
 
 **Today's Progress** I worked on fixing that Webpack bug from yesterday.
