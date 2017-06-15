@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: Wednesday, June 14, 2017
+
+**Today's Progress** I worked on my React course.
+
+**Thoughts:** I got the early stages of the React weather app done. It's nice to finally have Webpack working properly, and today's coding was mostly error-free. One nice surprise in this course was a section on ES6 promises, which served as a good complement to last night's workshop. I have tomorrow wide open, so I plan on maximizing my coding time as much as possible.
+
+I also spoke to a recruiter today about a junior dev role that I might be a good fit for. Talking more about it next week, here's hoping!
+
 ### Day 5: Tuesday, June 13, 2017
 
 **Today's Progress** I went to a NodeSchool meetup!
