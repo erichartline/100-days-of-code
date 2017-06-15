@@ -8,7 +8,7 @@
 
 I also spoke to a recruiter today about a junior dev role that I might be a good fit for. Talking more about it next week, here's hoping!
 
-**Link to work:** [ReactWeather](https://github.com/wildlifehexagon/react-udemy/ReactWeather)
+**Link to work:** [ReactWeather](https://github.com/wildlifehexagon/react-udemy/tree/master/ReactWeather)
 
 ### Day 5: Tuesday, June 13, 2017
 
