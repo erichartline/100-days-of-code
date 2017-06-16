@@ -2,11 +2,11 @@
 
 ### Day 7: Thursday, June 15, 2017
 
-**Today's Progress** test
+**Today's Progress** I worked all the way through the first six section of Andrew Mead's React course.
 
-**Thoughts:** test
+**Thoughts:** The React weather app is coming along nicely! It still looks crude, but styling is coming soon. Everything is functional as of now, including working subpages. The content is very basic -- you can only get temperature by typing in a city -- but I'm very pleased to have a working app. I feel like I've been learning a lot from the course, and I'm glad that the instructor added in some ES6 content after all. I'm starting to get used to writing out fat arrow functions, and definitely getting the appeal of them.
 
-**Link to work:** [ReactWeather Heroku](http://dry-scrubland-92983.herokuapp.com/#/?_k=zi9cto)
+**Link to work:** [ReactWeather on Heroku](http://dry-scrubland-92983.herokuapp.com/#/?_k=zi9cto)
 
 ### Day 6: Wednesday, June 14, 2017
 
@@ -25,7 +25,6 @@ I also spoke to a recruiter today about a junior dev role that I might be a good
 **Thoughts:** I didn't get to do any React work done during the day, but I went to my first NodeSchool meetup tonight. It was actually a lot of fun! I worked on the 'promise-it-wont-hurt' workshop, and was able to finish half of the challenges while teaming up with someone else. Overall, it was a great time since I feel I learned a lot, and I got to meet some cool people. Apparently there is another Node.js meetup next week, so I am going to try to do that as well.
 
 **Link to work:** [NodeSchool](https://github.com/wildlifehexagon/nodeschool)
->>>>>>> c1015df336463984d544f1dfd09707e0c80b2ca7
 
 ### Day 4: Monday, June 12, 2017
 
@@ -33,11 +32,8 @@ I also spoke to a recruiter today about a junior dev role that I might be a good
 
 **Thoughts:** It took a while, but I solved the problem! A fellow Chingu in my Slack #chingu-central channel pushed me in the right direction. We discovered that the dev dependencies weren't installing, and a bug in NPM5 was wiping out my regular dependencies when I ran `npm install --only=dev`. I rolled back to  NPM4, ran `npm install` then `npm install --only=dev` and voila, `webpack` worked! Although I was frustrated with all of the error messages, the debugging process ended up being very enlightening. I'm going to try to work on the React some more during the day tomorrow, then it's off to a NodeSchool event at night!
 
-<<<<<<< HEAD
-=======
 **Link to work:** [React Udemy Repo](https://github.com/wildlifehexagon/react-udemy)
 
->>>>>>> c1015df336463984d544f1dfd09707e0c80b2ca7
 ### Day 3: Sunday, June 11, 2017
 
 **Today's Progress** More React Udemy work.
