@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: Friday, June 16, 2017
+
+**Today's Progress** I finished the weather app (through section 7) in Andrew Mead's React course. I also watched the first few videos in week 3 of M101JS.
+
+**Thoughts:** In the final section of the weather app, the instructor had us add in some pretty cool features -- Foundation, custom CSS and SCSS. I was pretty happy about that because I was wondering how the styling could be included in a React app. We also added in some error modal popups and got the nav bar search to work properly. All really useful stuff, and I'm excited to dig into Foundation more. It looks like a good alternative to Bootstrap, which I was kind of getting tired of.
+
+I thought about taking a break from the course to rebuild my old FCC weather app, but I think I'm going to push through and continue learning more about React. I do plan on rebuilding the weather app afterward, however.
+
+**Link to work:** [ReactWeather on Heroku](http://dry-scrubland-92983.herokuapp.com/#/?_k=zi9cto)
+
 ### Day 7: Thursday, June 15, 2017
 
-**Today's Progress** I worked all the way through the first six section of Andrew Mead's React course.
+**Today's Progress** I worked all the way through the first six sections of Andrew Mead's React course.
 
 **Thoughts:** The React weather app is coming along nicely! It still looks crude, but styling is coming soon. Everything is functional as of now, including working subpages. The content is very basic -- you can only get temperature by typing in a city -- but I'm very pleased to have a working app. I feel like I've been learning a lot from the course, and I'm glad that the instructor added in some ES6 content after all. I'm starting to get used to writing out fat arrow functions, and definitely getting the appeal of them.
 
