@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: Saturday, June 17, 2017
+
+**Today's Progress** I finished week 3 of M101JS, started the React Timer app in Andrew Mead's React course and read some YDKJS.
+
+**Thoughts:** This week's homework was a bit of a drag. There was a lot to take in with little in the way of quiz breaks, so it was hard to retain some of the features that were discussed. The homework only had two real challenges, and they only involved writing a few lines of code. On the plus side, there were a few videos about using Twitter's API, and those showed a side of MongoDB's capabilities that I didn't know about. I'm about 1/4 through the React Timer section in the Udemy course. Mostly review so far, but it did bring up some cool points about SCSS (namely that you can use partials with _ at the beginning of the filename and then bring them altogether with one stylesheet). I think tomorrow I'm going to do more reading and try to finish the second YDKJS book.
+
+**Link to work:** [React Timer on Heroku](https://fast-springs-17349.herokuapp.com/) & [M101JS](https://github.com/wildlifehexagon/M101JS/tree/master/wk3)
+
 ### Day 8: Friday, June 16, 2017
 
 **Today's Progress** I finished the weather app (through section 7) in Andrew Mead's React course. I also watched the first few videos in week 3 of M101JS.
