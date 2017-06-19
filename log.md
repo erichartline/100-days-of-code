@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: Sunday, June 18, 2017
+
+**Today's Progress** I read some YDKJS, went through a Canvas guide on JavaScript 30, and learned about testing with Expect.
+
+**Thoughts:** Didn't get as much coding done today as I hoped, but at the very least I am almost finished with book 2 of YDKJS. The Canvas guide I went through was really cool -- that's going to come in handy for my upcoming Chingu collaboration.
+
 ### Day 9: Saturday, June 17, 2017
 
 **Today's Progress** I finished week 3 of M101JS, started the React Timer app in Andrew Mead's React course and read some YDKJS.
