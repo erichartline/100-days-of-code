@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: Monday, June 19, 2017
+
+**Today's Progress** I finished the second book of YDKJS and attempted to start working on my team project.
+
+**Thoughts:** I was hoping to get in a good coding session this afternoon for my Chingu team project, but I ended up spending most of my time debugging. I couldn't figure out for the life of me why our React boilerplate wasn't working. Eventually I figured out that some files got lost in the transition, including the ever-crucial .babelrc, and that was causing all sorts of errors. We have a functional boilerplate now, however, so it's time to get coding.
+
 ### Day 10: Sunday, June 18, 2017
 
 **Today's Progress** I read some YDKJS, went through a Canvas guide on JavaScript 30, and learned about testing with Expect.
