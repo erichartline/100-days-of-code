@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: Wednesday, June 21, 2017
+
+**Today's Progress** I went to my first presentation-style meetup: "Beautify your async flow with generators/async+await & Koajs".
+
+**Thoughts:** To be honest, a lot of the presentation material went over my head, but I did have a good time at the meetup. I met my cohort partner in person and discussed a more detailed gameplan for our project, got some Node.js swag and checked out Braintree's really cool office. Seeing their decked-out location has me even more excited to get my first dev job! Tomorrow I will have a lot of coding time available, so I'm aiming to get a lot done.
+
+### Day 12: Tuesday, June 20, 2017
+
+**Today's Progress** I worked on adding some Foundation styling to my team project, and submitted my first `pull request` for it.
+
+**Thoughts:** This was definitely trickier than it seems, and it took me an hour plus to get everything implemented correctly. The Udemy course I have been following along with is great, but it is so, so dated, and the discrepancies between it and the new boilerplate we have been working with are jarring. I had to install additional modules, add in some stuff (brand new to me) to webpack.config.js, and adjust the package.json start line to work correctly with Windows. There are a ton of moving pieces already, and we haven't even started adding components. This is a HUGE learning experience, but it is totally going to be worth it.
+
 ### Day 11: Monday, June 19, 2017
 
 **Today's Progress** I finished the second book of YDKJS and attempted to start working on my team project.
