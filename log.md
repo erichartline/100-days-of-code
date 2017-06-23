@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 13: Thursday, June 22, 2017
+### Day 14: Thursday, June 22, 2017
 
 **Today's Progress** I worked on my Chingu team project.
 
