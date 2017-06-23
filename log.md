@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: Thursday, June 22, 2017
+
+**Today's Progress** I worked on my Chingu team project.
+
+**Thoughts:** I spent a lot of time on this today but didn't get nearly as far as I had hoped. I decided to focus on adding our components and making sure that everything would be linked together properly. What should have been so simple -- importing one component into another -- ended up being a major process. I spent hours trying to figure out why it wasn't working, rewriting my `const` statement to a `class` and vice versa, changing my routing patterns, trying new components. Nothing worked. It wasn't until my partner happened to change the file and folder reference from `./containers/Canvas` to `./Canvas` that it all worked. Of course it was so simple after all! On the plus side, thinking it was an issue with upgrading to React Router v4, we both read the docs and learned the differences between the new and old versions. Wasn't the problem but still good info to know.
+
+**Link to work:** [Components branch](https://github.com/wildlifehexagon/draw-dash/tree/components)
+
 ### Day 13: Wednesday, June 21, 2017
 
 **Today's Progress** I went to my first presentation-style meetup: "Beautify your async flow with generators/async+await & Koajs".
