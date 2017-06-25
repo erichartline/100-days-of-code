@@ -1,8 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 16: Saturday, June 24, 2017
+
+**Today's Progress** I spent a good eight hours learning React.
+
+**Thoughts:** I wanted to get a better understanding of React so I decided to finish up the timer/countdown project from Andrew Mead's Udemy course. There was *a lot* of content to digest (and definitely some stuff I will need to go back and revisit), but overall I feel I learned quite a bit. Perhaps most interesting was how we added in testing using Karma/Mocha/Expect. Doing test-driven development is something I have been wanting to learn about for a while now, so it was really cool to see it implemented in real-time for a major project like this. This app seems like a strong basis that I can use when I rebuild my own Pomodoro clock with React in the future.
+
+**Link to work:** [React Timer App](http://fast-springs-17349.herokuapp.com/#/?_k=wwrh7b) & [React Boilerplate 3](https://github.com/wildlifehexagon/react-udemy/tree/master/ReactBoilerplate3)
+
+### Day 15: Friday, June 23, 2017
+
+**Today's Progress** I updated my personal portfolio, watched most of the videos from week 4 of M101JS, read some YDKJS, worked on my team project and had an interview with a recruiter.
+
+**Thoughts:** Feel like I did a little bit of everything today. I had been meaning to update my personal website ever since finishing my Simon game project, so I finally went ahead and did that. I also added some skills and a "currently learning" line, much like my LinkedIn profile. I made some small changes to components in my team project, but I feel I still need to get a better understanding of `state` and passing around props.
+
+**Link to work:** [Components branch](https://github.com/wildlifehexagon/draw-dash/tree/components) & [Personal Portfolio](http://www.erichartline.net)
+
 ### Day 14: Thursday, June 22, 2017
 
-**Today's Progress** I worked on my Chingu team project.
+**Today's Progress** I worked on my Chingu team project. and had an interview with a recruiter.
 
 **Thoughts:** I spent a lot of time on this today but didn't get nearly as far as I had hoped. I decided to focus on adding our components and making sure that everything would be linked together properly. What should have been so simple -- importing one component into another -- ended up being a major process. I spent hours trying to figure out why it wasn't working, rewriting my `const` statement to a `class` and vice versa, changing my routing patterns, trying new components. Nothing worked. It wasn't until my partner happened to change the file and folder reference from `./containers/Canvas` to `./Canvas` that it all worked. Of course it was so simple after all! On the plus side, thinking it was an issue with upgrading to React Router v4, we both read the docs and learned the differences between the new and old versions. Wasn't the problem but still good info to know.
 
