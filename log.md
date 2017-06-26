@@ -1,12 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 17: Sunday, June 25, 2017
+
+**Today's Progress** I finished the week 4 homework for M101JS and read a bunch of YDKJS.
+
+**Thoughts:** Didn't have as much hands-on coding time, so today was a great day to get some reading in. I'm almost done with the third book of YDKJS -- just one chapter left -- and I hope to finish it tomorrow. This book is definitely more challenging than the first two, and I can tell it's going to require more than one read to get a good grasp of its many new concepts. I do still feel I am learning a lot though. The homework for week 4 of M101JS wasn't as engaging as the third week -- just three questions, one of which felt too subjective to be given a strict answer. The course kind of seems hit-or-miss so far, but I'm going to stick with it. Besides more reading, tomorrow I will be getting back into React.
+
 ### Day 16: Saturday, June 24, 2017
 
 **Today's Progress** I spent a good eight hours learning React.
 
 **Thoughts:** I wanted to get a better understanding of React so I decided to finish up the timer/countdown project from Andrew Mead's Udemy course. There was *a lot* of content to digest (and definitely some stuff I will need to go back and revisit), but overall I feel I learned quite a bit. Perhaps most interesting was how we added in testing using Karma/Mocha/Expect. Doing test-driven development is something I have been wanting to learn about for a while now, so it was really cool to see it implemented in real-time for a major project like this. This app seems like a strong basis that I can use when I rebuild my own Pomodoro clock with React in the future.
 
-**Link to work:** [React Timer App](http://fast-springs-17349.herokuapp.com/#/?_k=wwrh7b) & [React Boilerplate 3](https://github.com/wildlifehexagon/react-udemy/tree/master/ReactBoilerplate3)
+**Links to work:** [React Timer App](http://fast-springs-17349.herokuapp.com/#/?_k=wwrh7b) & [React Boilerplate 3](https://github.com/wildlifehexagon/react-udemy/tree/master/ReactBoilerplate3)
 
 ### Day 15: Friday, June 23, 2017
 
@@ -14,7 +20,7 @@
 
 **Thoughts:** Feel like I did a little bit of everything today. I had been meaning to update my personal website ever since finishing my Simon game project, so I finally went ahead and did that. I also added some skills and a "currently learning" line, much like my LinkedIn profile. I made some small changes to components in my team project, but I feel I still need to get a better understanding of `state` and passing around props.
 
-**Link to work:** [Components branch](https://github.com/wildlifehexagon/draw-dash/tree/components) & [Personal Portfolio](http://www.erichartline.net)
+**Links to work:** [Components branch](https://github.com/wildlifehexagon/draw-dash/tree/components) & [Personal Portfolio](http://www.erichartline.net)
 
 ### Day 14: Thursday, June 22, 2017
 
