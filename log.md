@@ -6,7 +6,7 @@
 
 **Thoughts:** I decided to make it my main goal to plow through this course and really try to get a solid understanding of React. I'm about halfway through the todo app section, and I feel like some things are really starting to click now. I've got the basic syntax of React classes down pat now, and I'm starting to get the hang of the tests with Karma. This section also had an insightful detour into the ES6 spread operator, which seems like it will be incredibly useful.
 
-**Links to work:** [React Timer App](http://fast-springs-17349.herokuapp.com/#/?_k=wwrh7b)
+**Links to work:** [React Todo App](https://github.com/wildlifehexagon/react-todo)
 
 ### Day 17: Sunday, June 25, 2017
 
