@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: Monday, June 26, 2017
+
+**Today's Progress** I spent a few hours working on the React Todo app from my course.
+
+**Thoughts:** I decided to make it my main goal to plow through this course and really try to get a solid understanding of React. I'm about halfway through the todo app section, and I feel like some things are really starting to click now. I've got the basic syntax of React classes down pat now, and I'm starting to get the hang of the tests with Karma. This section also had an insightful detour into the ES6 spread operator, which seems like it will be incredibly useful.
+
+**Links to work:** [React Timer App](http://fast-springs-17349.herokuapp.com/#/?_k=wwrh7b)
+
 ### Day 17: Sunday, June 25, 2017
 
 **Today's Progress** I finished the week 4 homework for M101JS and read a bunch of YDKJS.
