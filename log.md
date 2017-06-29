@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 20: Wednesday, June 28, 2017
+
+**Today's Progress** I finished the React todo app from my course.
+
+**Thoughts:** The app actually turned out pretty cool! This was another great learning experience since it showed how to use local storage to create and remove items from the todo list. It also incorporated Moment, which I had used before for an API project, as a way to keep track of when an item was created and completed. Overall, I feel good about being able to retain most of what I learned, though I'm still not 100% confident in the testing methods used. It looks like the next section involves using Redux to add new features to the app, so I'm looking forward to seeing how all of that comes together.
+
+**Links to work:** [React Todo App](http://quiet-garden-60351.herokuapp.com/)
+
+### Day 19: Tuesday, June 27, 2017
+
+**Today's Progress** I went to a Vue.js meetup.
+
+**Thoughts:** I have been trying to go to at least one coding-related meetup every week, so I decided to check out a Vue.js workshop downtown. The event was kind of a mixed bag for me personally, mainly because my first hour was spent trying to get their repo to work on my laptop. None of the devs knew what was causing the issue, but eventually I figured it out on my own. Turns out that it was nearly the same problem I ran into with a React project recently -- I had to change the `dev` script in `package.json` to something else to run in Windows. I swear that every Windows-specific bug I run into is making me want to go exclusively to Linux. But I digress. After that, I tried to catch up to where they were at in the workshop, but I had already fallen so far behind. The app they were building -- a "Tinder for TV shows" -- was pretty cool so I want to play around with it some more. The little bit of Vue that I picked up was interesting, too, and it is kind of giving me a "React mixed with jQuery" vibe. I can see why some people prefer to use Vue as an intro framework rather than React. The most fruitful part of the workshop, however, came after the event had ended. I was able to stick around and talk to a couple of the company's developers, including a junior dev who gave me some great job search and career advice. That alone made the experience worth it.
+
+**Links to work:** [TVinder](https://github.com/wildlifehexagon/tvinder)
+
 ### Day 18: Monday, June 26, 2017
 
 **Today's Progress** I spent a few hours working on the React Todo app from my course.
