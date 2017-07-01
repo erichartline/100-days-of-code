@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 22: Friday, June 30, 2017
+
+**Today's Progress** I continued working through the Redux part of the course.
+
+**Thoughts:** I'm almost done with the Redux section. I felt like I had a pretty solid grasp on the examples he had us go through, but now it's getting really complex with the refactoring of the Todo app. I'm going to keep pushing through, but I definitely feel like I will need another Redux learning supplement after this.
+
+**Links to work:** [React Udemy Repo](https://github.com/wildlifehexagon/react-udemy) & [React Todo App](http://quiet-garden-60351.herokuapp.com/)
+
+### Day 21: Thursday, June 29, 2017
+
+**Today's Progress** I started the Redux section of my course and finished reading the third YDKJS book.
+
+**Thoughts:** Spent most of the day coding. Not entirely sure what to make of Redux so far. YDKJS was an interesting read, especially considering its less-than-glowing remarks about ES6's `class` mechanism. Kind of funny since React is so heavy on classes.
+
+**Links to work:** [React Udemy Repo](https://github.com/wildlifehexagon/react-udemy)
+
 ### Day 20: Wednesday, June 28, 2017
 
 **Today's Progress** I finished the React todo app from my course.
