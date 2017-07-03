@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 24: Sunday, July 2, 2017
+
+**Today's Progress** I finished this week's M101JS homework and studied up on some React.
+
+**Thoughts:** Didn't have much time today so I just focused on getting the M101JS homework done on time. Much better this week -- I enjoyed learning about indexes more than schema. I also did a bit of a refresher on basic React so I can start developing a couple specific components for my team project.
+
+### Day 23: Saturday, July 1, 2017
+
+**Today's Progress** I finished the Redux section of the course, started this week's M101JS material and worked on my Chingu team project.
+
+**Thoughts:** I'm pretty happy to finish the Redux section because I'm ready to move on to building my own projects now. This Udemy course has been great, don't get me wrong, but I'm starting to get that itch to develop something that isn't just a code-along. I started doing some preliminary stuff with components in my team project, mainly just basic cleanup and adding in a couple of simple components. I also started this week's M101JS material since that is due in a few days.
+
+**Links to work:** [React Todo App](http://quiet-garden-60351.herokuapp.com/)
+
 ### Day 22: Friday, June 30, 2017
 
 **Today's Progress** I continued working through the Redux part of the course.
