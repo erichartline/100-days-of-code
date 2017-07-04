@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: Monday, July 3, 2017
+
+**Today's Progress** I watched some React videos and added some basic content to my team project.
+
+**Thoughts:** Wasn't sure I was going to have time to code today, but I was able to squeeze in some work really late. I watched some React videos earlier in the day, but for actual coding I did some basic work on my team project. Now I have collaborative access to the main repo, so I went ahead and pulled the latest version, added a footer component and made some simple changes, then pushed it back to the master branch. Still getting the hang of proper Git workflow as a team, but it seems much easier now with direct access to the repo.
+
+**Links to work:** [Draw Dash](https://github.com/ReeceLangerock/draw-dash)
+
 ### Day 24: Sunday, July 2, 2017
 
 **Today's Progress** I finished this week's M101JS homework and studied up on some React.
