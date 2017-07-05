@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: Tuesday, July 4, 2017
+
+**Today's Progress** I created a new React boilerplate for my future projects, and I started playing around with Canvas in my team project.
+
+**Thoughts:** I started looking around at upcoming freeCodeCamp projects and got inspired to build my own custom React boilerplate for future use in them. This took me a bit longer than I anticipated, as I was essentially trying to bridge the gap between what I knew from the dated Udemy course boilerplate I was using and the new Webpack 3/Router 4/etc features from a different boilerplate we used in my team project. I decided to just do my own thing, taking what I knew from using both of these and crafting it in my own vision. It's still a work in progress, but I'm happy to get it working all on my own. After finishing this, I dove right into my team project and started working on a new branch to develop a Canvas component. I made my own canvas but also found a couple of libraries that might work even better with React. Something to dig into more tomorrow...
+
+**Links to work:** [Draw Dash](https://github.com/wildlifehexagon/draw-dash) & [React Boilerplate](https://github.com/wildlifehexagon/react-boilerplate)
+
 ### Day 25: Monday, July 3, 2017
 
 **Today's Progress** I watched some React videos and added some basic content to my team project.
