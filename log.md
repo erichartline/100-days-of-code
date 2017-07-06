@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: Wednesday, July 5, 2017
+
+**Today's Progress** I went through some Redux stuff trying to solve a bug in my team project, and I read some YDKJS.
+
+**Thoughts:** Was really busy today so I didn't get a ton done. I spent some time debugging a Redux authentication issue (still not solved, unfortunately), then I read some YDKJS when I had some time tonight. I should have a little more time to code tomorrow, but my streak may be in jeopardy starting on Friday (heading out of state to deal with some family matters).
+
 ### Day 26: Tuesday, July 4, 2017
 
 **Today's Progress** I created a new React boilerplate for my future projects, and I started playing around with Canvas in my team project.
