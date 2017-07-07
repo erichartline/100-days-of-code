@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27: Thursday, July 6, 2017
+
+**Today's Progress** I watched most of this week's M101JS videos and read more YDKJS.
+
+**Thoughts:** Unfortunately, I think this is going to be the end of this edition of #100DaysOfCode. I was able to fit in some time for videos and some reading today, but I'm not sure if I will have any time at all to do anything coding-related for the next few days. If that changes, I'll keep this going, but it sounds like it's going to be a very busy trip.
+
 ### Day 26: Wednesday, July 5, 2017
 
 **Today's Progress** I went through some Redux stuff trying to solve a bug in my team project, and I read some YDKJS.
