@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+Unfortunately, this was the end of this #100DaysOfCode streak, but I am back now after four days and coding again. Maybe this time I will start a generic coding journal.
+
 ### Day 27: Thursday, July 6, 2017
 
 **Today's Progress** I watched most of this week's M101JS videos and read more YDKJS.
